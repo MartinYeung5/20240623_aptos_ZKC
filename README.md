@@ -17,3 +17,8 @@ Furthermore, ZK function can help verify the contract and personal identity with
 
 ## AKINDO Links
 https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
+
+## Status (Updating)
+20240706
+1. Optimize the smart contract (move)
+2. Add connect function (allows users to log in with a Google ID without needing an MPC Network, Magic Links, or Windows passkey)
