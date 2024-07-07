@@ -24,3 +24,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 2. Add connect function (allows users to log in with a Google ID without needing an MPC Network, Magic Links, or Windows passkey)
 20240707
 1. update "@aptos-labs/wallet-adapter-react": "^3.4.3"
+
+## Bug fixed
+20240701
+1. wallet connection (brave broswer)
