@@ -1,0 +1,15 @@
+# NodeJS
+build
+node_modules
+coverage
+#packages
+
+# Editor
+.vscode
+
+# System
+.DS_Store
+.turbo
+
+# Never commit keys to Git!
+keys
