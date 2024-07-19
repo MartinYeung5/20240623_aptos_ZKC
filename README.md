@@ -21,8 +21,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 1. Add multied25519
 2. Optimize smart contract
 3. Optimize UI desgin
-4. ZK function implementation
+4. Update ZK function implementation
 5. bug fix
+6. Add verification function
 
 ## Status (Updating)
 20240706
