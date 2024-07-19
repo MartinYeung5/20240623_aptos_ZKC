@@ -41,7 +41,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240701
 1. wallet connection (brave broswer)
 
-## Bug
+## Bug/Problem
 20240707
 1. const owner2Authenticator = aptos.transaction.sign({ signer: owner2, transaction: { rawTransaction } });
 * Error Msg:
