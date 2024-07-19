@@ -17,7 +17,7 @@ Furthermore, ZK function can help verify the contract and personal identity with
 ## AKINDO Links
 https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 
-## Schedule
+## Schedule/Milestone
 1. Add multied25519
 2. Optimize smart contract
 3. Optimize UI desgin
