@@ -34,6 +34,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240713
 1. update ZK section - using Protokit Framework
 
+20240715
+1. develop verification function based on Protokit Framework
+
 ## Bug fixed
 20240701
 1. wallet connection (brave broswer)
