@@ -31,6 +31,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240707
 1. update "@aptos-labs/wallet-adapter-react": "^3.4.3"
 
+20240713
+1. update ZK section - using protokit
+
 ## Bug fixed
 20240701
 1. wallet connection (brave broswer)
