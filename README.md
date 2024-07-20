@@ -44,6 +44,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240717
 1. add new function for user to view the sign status of the contract
 
+20240718
+1. remove all "rawTransaction"
+
 ## Bug fixed
 20240701
 1. wallet connection (brave broswer)
