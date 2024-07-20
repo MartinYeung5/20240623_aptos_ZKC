@@ -63,3 +63,6 @@ index.d.ts(5628, 9): The expected type comes from property 'transaction' which i
 1. when using Protokit Framework
 * Error Msg:
 POST http://localhost:8080/graphql net::ERR_CONNECTION_REFUSED
+
+20240718
+1. when refresh the website, OKX wallet will pop up and need user to login
