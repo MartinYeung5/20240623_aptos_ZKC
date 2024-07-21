@@ -48,7 +48,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 1. remove all "rawTransaction" (frontend), Bug fixed
 
 20240721
-1. add new fucntion - check contract list (which is created by other and is waiting you for sign)
+1. add new fucntion - check contract list (which is created by other and is waiting you [expected signer] for sign)
 
 ## Bug fixed
 20240701
