@@ -48,6 +48,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240718
 1. remove all "rawTransaction" (frontend), Bug fixed
 
+20240719
+1. AI section: expect to use AWS to develop AI model and related service
+
 20240721
 1. add new fucntion - check contract list (which is created by other and is waiting you [expected signer] for sign)
 
