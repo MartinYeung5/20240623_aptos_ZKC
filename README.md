@@ -1,6 +1,7 @@
 # ZKC - ZK KOL Contract with AI Audit
 github link: https://github.com/MartinYeung5/20240623_aptos_ZKC
-contract address: 0x862df6b2346463039589216fb84b4618b76f2b4e8bd479555863d8ea51606501
+network: testnet
+contract address: 0x86adc9e2857e9ece1a99f4de87fb41e33591562ee1f80e4351404e47bd8bc778
 
 ## About this project
 The project aims to provide a solution for KOL(influencer) to handle general collaboration with other parties on digital contract utilizing ZK contract with AI audit. 
