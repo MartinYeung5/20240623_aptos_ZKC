@@ -26,6 +26,8 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 5. bug fix
 6. Add verification function
 
+## Achievement
+
 ## Status (Updating)
 20240706
 1. Optimize the smart contract (move)
