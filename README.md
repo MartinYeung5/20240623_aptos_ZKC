@@ -62,8 +62,8 @@ TS2322: Type '{ rawTransaction: RawTransaction; }' is not assignable to type 'An
   Type '{ rawTransaction: RawTransaction; }' is missing the following properties from type 'MultiAgentTransaction': secondarySignerAddresses, serialize, bcsToBytes, bcsToHexts(2322)
 index.d.ts(5628, 9): The expected type comes from property 'transaction' which is declared here on type '{ transaction: AnyRawTransaction; senderAuthenticator: AccountAuthenticator; feePayerAuthenticator?: AccountAuthenticator | undefined; }'
 * solution:
-- upgrade "@aptos-labs/ts-sdk": "^1.26.0",
-- remvoe all RawTransaction and change to transaction
+-upgrade "@aptos-labs/ts-sdk": "^1.26.0",
+-remvoe all RawTransaction and change to transaction
 
 20240711
 1. when using Protokit Framework
