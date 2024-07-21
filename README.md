@@ -65,7 +65,6 @@ index.d.ts(5628, 9): The expected type comes from property 'transaction' which i
 - upgrade "@aptos-labs/ts-sdk": "^1.26.0",
 - remvoe all RawTransaction and change to transaction
 
-
 20240711
 1. when using Protokit Framework
 * Error Msg:
