@@ -47,6 +47,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240718
 1. remove all "rawTransaction" (frontend)
 
+20240721
+1. add new fucntion - check contract list (which is created by other and is waiting you for sign)
+
 ## Bug fixed
 20240701
 1. wallet connection (brave broswer)
