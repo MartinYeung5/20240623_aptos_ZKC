@@ -59,6 +59,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 
 20240722
 1. function optimization - check contract list. User can input the address of contract creator and check the contract list. if you are one of expected signer from teh contract, you will see the contract in contract list.
+2. create new page - ContractListByOther.tsx
 
 ## Screen Cap
 * main page
