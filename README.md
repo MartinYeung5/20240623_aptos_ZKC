@@ -57,6 +57,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240721
 1. add new fucntion - check contract list (which is created by other and is waiting you [expected signer] for sign)
 
+20240722
+1. function optimization - check contract list. User can input the address of contract creator and check the contract list. if you are one of expected signer from teh contract, you will see the contract in contract list.
+
 ## Screen Cap
 * main page
 ![alt text](https://github.com/MartinYeung5/20240623_aptos_ZKC/blob/main/aptos_frontend/public/frontend_screencap_01.png?raw=true)
