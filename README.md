@@ -1,6 +1,7 @@
 # ZKC - ZK KOL Contract with AI Audit
 * github link: https://github.com/MartinYeung5/20240623_aptos_ZKC
 * network: testnet
+* link: https://explorer.aptoslabs.com/account/0x86adc9e2857e9ece1a99f4de87fb41e33591562ee1f80e4351404e47bd8bc778/modules/code/ContractDatabase?network=testnet
 * contract address: 0x86adc9e2857e9ece1a99f4de87fb41e33591562ee1f80e4351404e47bd8bc778
 
 ## About this project
