@@ -62,6 +62,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 2. create new page - ContractListByOther.tsx
 3. function optimization - check contract list. When user signed the contract, the checkbox will be disable on the contract list.
 
+20240723
+1. add new function optimization - check contract validity
+
 ## Screen Cap
 * main page
 ![alt text](https://github.com/MartinYeung5/20240623_aptos_ZKC/blob/main/aptos_frontend/public/frontend_screencap_01.png?raw=true)
