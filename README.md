@@ -63,7 +63,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 3. function optimization - check contract list. When user signed the contract, the checkbox will be disable on the contract list.
 
 20240723
-1. add new function optimization - check contract validity
+1. add new function - check contract validity
 
 ## Screen Cap
 * main page
