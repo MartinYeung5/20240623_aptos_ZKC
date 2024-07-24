@@ -66,6 +66,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 1. add new function - check contract validity.
 * if the contract is valid, will display the message " Contract Valid", otherwise, will display the message " Wrong Contract".
 
+20240724
+1. optimize UI design - check contract list
+
 ## Screen Cap
 * main page
 ![alt text](https://github.com/MartinYeung5/20240623_aptos_ZKC/blob/main/aptos_frontend/public/frontend_screencap_01.png?raw=true)
