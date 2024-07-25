@@ -71,6 +71,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 2. fixed the bug - checking contract data is signed or not
 3. fixed contract big - assert!(contract_record.sign == true, ETASK_IS_COMPLETED)
 
+20240725
+1. optimize move contract
+
 ## Screen Cap
 * main page
 ![alt text](https://github.com/MartinYeung5/20240623_aptos_ZKC/blob/main/aptos_frontend/public/frontend_screencap_01.png?raw=true)
