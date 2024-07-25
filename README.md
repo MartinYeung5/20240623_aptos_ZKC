@@ -69,7 +69,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240724
 1. optimize UI design - check contract list
 2. fixed the bug - checking contract data is signed or not
-3. fixed contract big - assert!(contract_record.sign == true, ETASK_IS_COMPLETED)
+3. fixed contract bug - assert!(contract_record.sign == true, ETASK_IS_COMPLETED)
 
 20240725
 1. optimize move contract
