@@ -72,7 +72,10 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 3. fixed contract bug - assert!(contract_record.sign == true, ETASK_IS_COMPLETED)
 
 20240725
-1. optimize move contract
+1. optimize move contract - fixed bug
+
+20240726
+1. optimize move contract - setup new assertion
 
 ## Screen Cap
 * main page
