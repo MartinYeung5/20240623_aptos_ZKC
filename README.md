@@ -105,3 +105,6 @@ POST http://localhost:8080/graphql net::ERR_CONNECTION_REFUSED
 
 20240718
 1. when refresh the website, OKX wallet will pop up and need user to login
+
+20240727
+1. refresh issue, need to reload the updated information
