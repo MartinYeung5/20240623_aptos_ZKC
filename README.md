@@ -77,6 +77,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240726
 1. optimize move contract - setup new assertion
 
+20240727
+1. fixed the bug - refresh the page when user create own contract list
+
 ## Screen Cap
 * main page
 ![alt text](https://github.com/MartinYeung5/20240623_aptos_ZKC/blob/main/aptos_frontend/public/frontend_screencap_01.png?raw=true)
@@ -111,3 +114,4 @@ POST http://localhost:8080/graphql net::ERR_CONNECTION_REFUSED
 
 20240728
 1. smart contract issue: check the user's contract sign
+2. contractDatabase undefined
