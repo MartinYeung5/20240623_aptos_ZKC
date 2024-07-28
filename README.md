@@ -82,6 +82,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 
 20240728
 1. optimize move contract - contract sign
+2. optimize move contract - contract can upgrade
 
 ## Screen Cap
 * main page
