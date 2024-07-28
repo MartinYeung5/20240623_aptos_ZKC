@@ -108,3 +108,6 @@ POST http://localhost:8080/graphql net::ERR_CONNECTION_REFUSED
 
 20240727
 1. refresh issue, need to reload the updated information
+
+20240728
+1. smart contract issue: check the user's contract sign
