@@ -122,5 +122,5 @@ POST http://localhost:8080/graphql net::ERR_CONNECTION_REFUSED
 1. refresh issue, need to reload the updated information
 
 20240728
-1. smart contract issue: check the user's contract sign (updated)
-2. contractDatabase undefined (updated)
+1. (fixed) smart contract issue: check the user's contract sign (updated)
+2. (fixed) contractDatabase undefined (updated)
