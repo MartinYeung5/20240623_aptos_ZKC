@@ -97,11 +97,11 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 ![alt text](https://github.com/MartinYeung5/20240623_aptos_ZKC/blob/main/aptos_frontend/public/frontend_screencap_02.png?raw=true)
 
 ## Bug/Problem or fixed record
-20240701
-1. wallet connection (brave broswer)
+20240701 
+1. (fixed) wallet connection (brave broswer)
 
 20240707
-1. const owner2Authenticator = aptos.transaction.sign({ signer: owner2, transaction: { rawTransaction } });
+1. (fixed) const owner2Authenticator = aptos.transaction.sign({ signer: owner2, transaction: { rawTransaction } });
 * Error Msg:
 TS2322: Type '{ rawTransaction: RawTransaction; }' is not assignable to type 'AnyRawTransaction'.
   Type '{ rawTransaction: RawTransaction; }' is missing the following properties from type 'MultiAgentTransaction': secondarySignerAddresses, serialize, bcsToBytes, bcsToHexts(2322)
