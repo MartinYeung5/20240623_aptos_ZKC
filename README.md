@@ -96,11 +96,10 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 * wallet login
 ![alt text](https://github.com/MartinYeung5/20240623_aptos_ZKC/blob/main/aptos_frontend/public/frontend_screencap_02.png?raw=true)
 
-## Bug fixed
+## Bug/Problem or fixed record
 20240701
 1. wallet connection (brave broswer)
 
-## Bug/Problem
 20240707
 1. const owner2Authenticator = aptos.transaction.sign({ signer: owner2, transaction: { rawTransaction } });
 * Error Msg:
