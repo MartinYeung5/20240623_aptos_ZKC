@@ -96,6 +96,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240805
 1. The Protokit Framework is upgraded
 2. using Aptos Indexer API with Nodit
+3. usecase test
 
 ## Screen Cap
 * main page
