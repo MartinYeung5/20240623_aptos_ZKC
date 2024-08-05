@@ -94,7 +94,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 1. optimize zk logic
 
 20240805
-1. The Protokit Framework is updated by official, and i need to redesign agaian
+1. The Protokit Framework is updated by official, and i need to upgrade and redesign agaian
 
 ## Screen Cap
 * main page
