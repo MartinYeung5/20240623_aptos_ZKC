@@ -99,7 +99,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 3. usecase test
 
 20240807
-1. optimize Protokit Framework with different testing
+1. optimize Protokit Framework with different testings
 
 ## Screen Cap
 * main page
