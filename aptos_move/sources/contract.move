@@ -4,7 +4,6 @@ module contract::ContractDatabase {
     use std::vector;
     use std::string::String;
     use std::string;
-
     use std::debug::print;
 
     //use std::signer; //signer
@@ -17,11 +16,11 @@ module contract::ContractDatabase {
 
     use std::signer;
     
-
     // Errors Checking
     const NOT_INITIALIZED: u64 = 1;
     const NOT_EXIST: u64 = 2;
     const ETASK_IS_COMPLETED: u64 = 3;
+    const ESIGNER_IS_NOT_SAME: u64 = 4;
 
 
     struct Contracts has store, key
@@ -88,7 +87,33 @@ module contract::ContractDatabase {
         assert!(table::contains(&contract_list.contract_saved, contract_id), NOT_EXIST);
         // gets the contract matched the contract_id
         let contract_record = table::borrow_mut(&mut contract_list.contract_saved, contract_id);
-        // assert contract sign is not completed
+        // assert contract sign is completed. 
+        // if completed (true), return error message.
+        assert!(contract_record.sign == true, ETASK_IS_COMPLETED);
+        // update contract sign as completed
+        contract_record.sign = true;
+    }
+
+    public entry fun update_contract_by_signer(account: address, account2: address, contract_id:u64) acquires Contracts {
+        // gets the creator address
+        //let creator = signer::address_of(account);
+        let creator = account;
+        let signer_address = account2;
+        // gets the signer address
+        //let signer_address = signer::address_of(account2);
+        // assert creator has owned a contract 
+        assert!(exists<Contracts>(creator), NOT_EXIST);
+        // gets the Contracts resource
+        let contract_list = borrow_global_mut<Contracts>(creator);
+        // assert contract exists
+        assert!(table::contains(&contract_list.contract_saved, contract_id), NOT_EXIST);
+        // gets the contract matched the contract_id
+        let contract_record = table::borrow_mut(&mut contract_list.contract_saved, contract_id);
+
+        // assert contract signer
+        assert!(contract_record.contract_signer == signer_address, ESIGNER_IS_NOT_SAME);
+        // assert contract sign is completed. 
+        // if completed (will become true), return error message.
         assert!(contract_record.sign == false, ETASK_IS_COMPLETED);
         // update contract sign as completed
         contract_record.sign = true;
