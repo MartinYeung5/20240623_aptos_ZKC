@@ -101,6 +101,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240807
 1. optimize Protokit Framework with different tests
 
+20240808
+1. update Move contract
+
 20240809
 1. using Nodit - add multisig function
 
