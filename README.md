@@ -105,7 +105,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 1. update Move contract
 
 20240809
-1. using Nodit - add multisig function
+1. using Nodit - add multisig function (testing)
 
 ## Screen Cap
 * main page
