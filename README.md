@@ -108,7 +108,7 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 1. using Nodit - add multisig function (testing)
 
 20240810
-1. using Nodit - add Aptos NODE API (successful)
+1. using Nodit - add Aptos NODE API (successful), tested over 200 times
 
 ## Screen Cap
 * main page
