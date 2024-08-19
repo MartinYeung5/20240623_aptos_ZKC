@@ -111,6 +111,8 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 1. using Nodit - add Aptos NODE API (successful), tested over 200 times
 
 20240813
+1. update frontend desgin
+
 
 ## Screen Cap
 * main page
@@ -146,3 +148,10 @@ POST http://localhost:8080/graphql net::ERR_CONNECTION_REFUSED
 20240728
 1. (fixed) smart contract issue: check the user's contract sign (updated)
 2. (fixed) contractDatabase undefined (updated)
+
+20240817
+1. TS2786: 'App' cannot be used as a JSX component.
+  Its return type 'Promise<Element>' is not a valid JSX element.
+When i change the "function App()"
+to
+"async function App()"
