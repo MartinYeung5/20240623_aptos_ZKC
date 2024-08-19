@@ -116,6 +116,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240816
 1. desgin multisig function
 
+20240819
+1. multisig function - testing
+
 
 ## Screen Cap
 * main page
