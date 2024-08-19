@@ -113,6 +113,9 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240813
 1. update frontend desgin
 
+20240816
+1. desgin multisig function
+
 
 ## Screen Cap
 * main page
