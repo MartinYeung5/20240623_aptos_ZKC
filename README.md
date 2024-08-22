@@ -119,6 +119,8 @@ https://app.akindo.io/communities/aAEpW1EXKHdJXv9K/products/nPgNXKooJc0v0kNDq
 20240819
 1. multisig function - testing
 
+20240822
+1. multisig function - optimization
 
 ## Screen Cap
 * main page
